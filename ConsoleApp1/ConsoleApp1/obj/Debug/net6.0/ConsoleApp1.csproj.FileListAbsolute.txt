@@ -1,0 +1,15 @@
+I:\244-ИСП\244ИСП\ОАиП\Захаров Егор\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+I:\244-ИСП\244ИСП\ОАиП\Захаров Егор\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+I:\244-ИСП\244ИСП\ОАиП\Захаров Егор\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+I:\244-ИСП\244ИСП\ОАиП\Захаров Егор\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+I:\244-ИСП\244ИСП\ОАиП\Захаров Егор\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ref\ConsoleApp1.dll
+I:\244-ИСП\244ИСП\ОАиП\Захаров Егор\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+I:\244-ИСП\244ИСП\ОАиП\Захаров Егор\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+I:\244-ИСП\244ИСП\ОАиП\Захаров Егор\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+I:\244-ИСП\244ИСП\ОАиП\Захаров Егор\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+I:\244-ИСП\244ИСП\ОАиП\Захаров Егор\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+I:\244-ИСП\244ИСП\ОАиП\Захаров Егор\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+I:\244-ИСП\244ИСП\ОАиП\Захаров Егор\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+I:\244-ИСП\244ИСП\ОАиП\Захаров Егор\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+I:\244-ИСП\244ИСП\ОАиП\Захаров Егор\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+I:\244-ИСП\244ИСП\ОАиП\Захаров Егор\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
